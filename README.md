@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me  
 
 - 🌱 I’m currently a **Backend Engineering Learner at ALX**  
-- 🎯 My short term goal is to become a **Full Stack Developer** and land an **internship at FAANG** this time next year Inshallah 
+- 🎯 My short term goal is to become a **Full Stack Developer** 
 - 🤖 Long-term, I aim to explore **AI Engineering** because I believe it’s shaping the future  
 - 💡 I started software engineering because I want to be a **worthy and impactful person in tech**  
 - 🌍 From: **Ethiopia**  
