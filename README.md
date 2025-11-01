@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Rawda Ali</h1>
+<h1 align="center">Hi 👋, I'm Rawda Seid</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | Passionate about AI & Backend Engineering</h3>
 
 ---
