@@ -7,11 +7,15 @@
 <!-- ABOUT ME -->
 ## 👩‍💻 About Me  
 
-- 🌱 I’m currently a **Backend Engineering Learner at ALX**  
-- 🎯 My short term goal is to become a **Full Stack Developer** 
-- 🤖 Long-term, I aim to explore **AI Engineering** because I believe it’s shaping the future  
-- 💡 I started software engineering because I want to be a **worthy and impactful person in tech**  
-- 🌍 From: **Ethiopia**  
+- 💻 I'm a Software Engineering student passionate about technology and problem-solving.
+
+- 🚀 Interested in designing, developing, and building software solutions that solve real-world problems.
+
+- 🧠 Always learning, exploring new technologies, and improving my technical skills.
+
+- 🤝 I enjoy collaborating, sharing ideas, and turning concepts into practical solutions.
+
+- 🌍 Based in Ethiopia. 
 
 ---
 
@@ -31,23 +35,6 @@
 
 ---
 
-<!-- PROJECTS -->
-## 📂 Projects  
-
-- 🔹 **[Private Cloud Simulation](https://github.com/RawdaYE/cloudsim-private-cloud)** ✅ *Completed*  
-  Simulated private cloud concepts using **CloudSim 3.0.3** in Java.  
-
-- 🔹 **Matcha House Website** *(In Progress)*  
-  A modern frontend project about **Matcha culture**, built with HTML, CSS, and JavaScript.  
-
-- 🔹 **Art Business Website (for my sister)** *(Planned)*  
-  Designing and developing a professional **business site** to showcase creative work.  
-
-- 🔹 **More Projects — Coming Soon 🚀**  
-  I’m actively building new projects to strengthen my **backend and full stack skills**.  
- 
----
-
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats  
 
@@ -58,13 +45,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawdaYE&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>  
-
----
-
-<!-- INSPIRATION -->
-## ✨ Inspiration  
-
-> "Software engineering for me is not just about coding—it’s about **building meaningful solutions** that inspire trust, create opportunities, and impact lives. AI, in particular, fascinates me because it’s shaping the future of technology and humanity."  
 
 ---
 
